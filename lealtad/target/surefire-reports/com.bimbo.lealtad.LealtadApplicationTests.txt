@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.bimbo.lealtad.LealtadApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.417 s -- in com.bimbo.lealtad.LealtadApplicationTests

@@ -1,0 +1,17 @@
+/home/bytek00003/Documentos/Desarrollos/prueba/lealtad/lealtad/src/main/java/com/bimbo/lealtad/service/UsuarioService.java
+/home/bytek00003/Documentos/Desarrollos/prueba/lealtad/lealtad/src/main/java/com/bimbo/lealtad/controller/PuntosController.java
+/home/bytek00003/Documentos/Desarrollos/prueba/lealtad/lealtad/src/main/java/com/bimbo/lealtad/LealtadApplication.java
+/home/bytek00003/Documentos/Desarrollos/prueba/lealtad/lealtad/src/main/java/com/bimbo/lealtad/repository/UsuarioRepository.java
+/home/bytek00003/Documentos/Desarrollos/prueba/lealtad/lealtad/src/main/java/com/bimbo/lealtad/entity/Usuario.java
+/home/bytek00003/Documentos/Desarrollos/prueba/lealtad/lealtad/src/main/java/com/bimbo/lealtad/controller/UsuarioController.java
+/home/bytek00003/Documentos/Desarrollos/prueba/lealtad/lealtad/src/main/java/com/bimbo/lealtad/service/PuntosService.java
+/home/bytek00003/Documentos/Desarrollos/prueba/lealtad/lealtad/src/main/java/com/bimbo/lealtad/service/RecompensaService.java
+/home/bytek00003/Documentos/Desarrollos/prueba/lealtad/lealtad/src/main/java/com/bimbo/lealtad/repository/PuntosRepository.java
+/home/bytek00003/Documentos/Desarrollos/prueba/lealtad/lealtad/src/main/java/com/bimbo/lealtad/config/SecurityConfig.java
+/home/bytek00003/Documentos/Desarrollos/prueba/lealtad/lealtad/src/main/java/com/bimbo/lealtad/entity/Puntos.java
+/home/bytek00003/Documentos/Desarrollos/prueba/lealtad/lealtad/src/main/java/com/bimbo/lealtad/repository/RecompensaRepository.java
+/home/bytek00003/Documentos/Desarrollos/prueba/lealtad/lealtad/src/main/java/com/bimbo/lealtad/controller/RecompensaController.java
+/home/bytek00003/Documentos/Desarrollos/prueba/lealtad/lealtad/src/main/java/com/bimbo/lealtad/util/JwtTokenUtil.java
+/home/bytek00003/Documentos/Desarrollos/prueba/lealtad/lealtad/src/main/java/com/bimbo/lealtad/entity/Recompensa.java
+/home/bytek00003/Documentos/Desarrollos/prueba/lealtad/lealtad/src/main/java/com/bimbo/lealtad/controller/AuthController.java
+/home/bytek00003/Documentos/Desarrollos/prueba/lealtad/lealtad/src/main/java/com/bimbo/lealtad/config/JwtRequestFilter.java
